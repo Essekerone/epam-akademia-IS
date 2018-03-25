@@ -1,1 +1,1 @@
-# epam-akademia-IS
+# Ilya Subat
